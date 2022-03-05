@@ -34,7 +34,7 @@ function App() {
     <div class="row">
       <div class="col" id="in">
         <div class="input-group mb-3">
-          <span class="input-group-text" id="basic-addon1">Num telephone</span>
+          <span class="input-group-text" id="basic-addon1">Phone Number</span>
           <input type="text" class="form-control" placeholder="Num telephone" aria-label="Username" aria-describedby="basic-addon1"/>
         </div>
       </div>
