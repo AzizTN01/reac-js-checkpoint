@@ -1,0 +1,42 @@
+#header{
+    padding: 70px;
+    background-color: #ffffff;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+}
+p{
+    padding: 10px,10px,10px,10px;
+}
+form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+body{
+    background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+#container{
+    width: 500px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 42px 55px 45px 55px;
+}
+#in{
+    padding: 4px 4px 4px 4px;
+}
+.head{
+    font-family: Tahoma, Geneva, sans-serif;
+font-size: 21px;
+letter-spacing: -0.4px;
+word-spacing: 0.6px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+}
